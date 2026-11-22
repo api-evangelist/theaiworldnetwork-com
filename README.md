@@ -65,4 +65,133 @@
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
 AI Fusion One is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://theaiworldnetwork.com/apis.json
+
+**Areas:** AI · Payments · USDC · Base · MCP
+
+## AI Fusion One on APIs.io
+
+Everything profiled for AI Fusion One is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/theaiworldnetwork-com/](https://apis.io/providers/theaiworldnetwork-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (8)
+
+- [AI Fusion One Accounts API](https://apis.io/apis/theaiworldnetwork-com/theaiworldnetwork-com-accounts-api/) — Free sign-up: one API key per email for TEST MODE calls (validated input, sample output, $0). Optional prepaid credits.
+- [AI Fusion One Data API](https://apis.io/apis/theaiworldnetwork-com/theaiworldnetwork-com-data-api/) — Paid keyless data services, one endpoint each.
+- [AI Fusion One Discovery API](https://apis.io/apis/theaiworldnetwork-com/theaiworldnetwork-com-discovery-api/) — Free documents and catalogs.
+- [AI Fusion One Intelligence API](https://apis.io/apis/theaiworldnetwork-com/theaiworldnetwork-com-intelligence-api/) — Paid (x402, USDC on Base) or free-trial lookups, verification, supplier matching.
+- [AI Fusion One MCP API](https://apis.io/apis/theaiworldnetwork-com/theaiworldnetwork-com-mcp-api/) — Model Context Protocol endpoint.
+- [AI Fusion One Monitoring API](https://apis.io/apis/theaiworldnetwork-com/theaiworldnetwork-com-monitoring-api/) — Health and public performance history.
+- [AI Fusion One Partners API](https://apis.io/apis/theaiworldnetwork-com/theaiworldnetwork-com-partners-api/) — The Partners API from AI Fusion One — 2 operation(s) for partners.
+- [AI Fusion One Receipts API](https://apis.io/apis/theaiworldnetwork-com/theaiworldnetwork-com-receipts-api/) — Transaction receipts.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [AI Fusion One Agentic Access](https://apis.io/agentic-access/theaiworldnetwork-com/theaiworldnetwork-com-agentic-access/)
+
+#### JSON Schema (4)
+
+The data models the API reads and writes.
+
+- [AllAiFormsWorkflows](https://apis.io/schemas/theaiworldnetwork-com/theaiworldnetwork-com-all-ai-forms-workflows/)
+- [DataResult](https://apis.io/schemas/theaiworldnetwork-com/theaiworldnetwork-com-data-result/)
+- [PartnerBrands](https://apis.io/schemas/theaiworldnetwork-com/theaiworldnetwork-com-partner-brands/)
+- [Performance](https://apis.io/schemas/theaiworldnetwork-com/theaiworldnetwork-com-performance/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Theaiworldnetwork Com Context](https://apis.io/jsonld/theaiworldnetwork-com/theaiworldnetwork-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [AI Fusion One API Rules](https://apis.io/rules/theaiworldnetwork-com/theaiworldnetwork-com-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [AI Fusion One Authentication](https://apis.io/security/theaiworldnetwork-com/theaiworldnetwork-com-authentication/)
+- [AI Fusion One Domain Security](https://apis.io/security/theaiworldnetwork-com/theaiworldnetwork-com-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [AI Fusion One Plans Pricing](https://apis.io/plans/theaiworldnetwork-com/theaiworldnetwork-com-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://theaiworldnetwork.com/apis.json)
+- [Documentation](https://theaiworldnetwork.com/docs)
+- [Getting started](https://theaiworldnetwork.com/docs)
+- [API reference](https://theaiworldnetwork.com/openapi.json)
+- [Pricing](https://theaiworldnetwork.com/v1/pricing)
+- [Support](https://theaiworldnetwork.com/status)
+- [Terms of service](https://theaiworldnetwork.com/v1/terms)
+- [Privacy policy](https://theaiworldnetwork.com/v1/privacy)
+
+## API Evangelist rating
+
+**Kin Score 48.5** — developing · rubric 0.28.0 · scored 2026-11-22
+
+| Facet | Score |
+|---|---|
+| Discoverability | 63.3 |
+| Contract quality | 58.0 |
+| Contract governance | 79.1 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 45.2 |
+| Access clarity | 48.5 |
+
+**Agent readiness 37.9** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | verified |
+| OpenAPI Examples | partial |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | flavored (partial credit) |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | mostly (partial credit) |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 15.8** — Payments
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/theaiworldnetwork-com/](https://apis.io/providers/theaiworldnetwork-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for AI Fusion One: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/theaiworldnetwork-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
